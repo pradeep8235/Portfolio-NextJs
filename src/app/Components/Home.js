@@ -5,7 +5,7 @@ const Home = () => {
   return (
     <>
       <Header />
-      <div className="text-center">pradeep</div>
+      <div className="text-center">First Commit Bro</div>
     </>
   );
 };
