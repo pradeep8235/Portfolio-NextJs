@@ -1,11 +1,11 @@
 import React from "react";
-import Home from "./Components/Home";
-import Header from "next/head";
+import Header from "../../../../ReusableComponent/Header";
 
 const page = () => {
   return (
     <>
-      <Home />
+      <Header />
+      <div>page</div>
     </>
   );
 };
