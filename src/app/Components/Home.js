@@ -5,7 +5,7 @@ const Home = () => {
   return (
     <>
       <Header />
-      <div className="text-center">First Commit Bro</div>
+      <div className="text-center">ok thanks Commit Bro</div>
     </>
   );
 };
